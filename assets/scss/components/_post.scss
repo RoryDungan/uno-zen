@@ -48,6 +48,10 @@
   .deep-link a:hover::before {
     color: rgba($primary-color, .8);
   }
+
+  img {
+    max-width: 100%;
+  }
 }
 
 .post {
